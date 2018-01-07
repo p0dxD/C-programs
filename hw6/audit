@@ -1,0 +1,88 @@
+05/14/16-11:27AM, test, CMD, /accts\, failure, client
+05/14/16-11:27AM, test, CMD, /accts, failure, client
+05/14/16-11:28AM, jose, CMD, /listu, success, client
+05/14/16-11:28AM, jose, MSG, to, test, hey
+05/14/16-11:28AM, jose, MSG, from, test,  how are you
+05/14/16-11:28AM, test, MSG, to, jose,  how are you
+05/14/16-11:28AM, jose, MSG, to, test,  i am good
+05/14/16-11:28AM, jose, MSG, from, test,  this is cool
+05/14/16-11:28AM, test, MSG, to, jose,  this is cool
+05/14/16-11:28AM, test, MSG, to, jose,  yeah i know
+05/14/16-11:28AM, test, MSG, from, jose,  yeah awesome
+05/14/16-11:28AM, jose, MSG, to, test,  yeah awesome
+05/14/16-11:28AM, test, MSG, from, jose,  this is agrea
+05/14/16-11:28AM, jose, MSG, to, test,  this is agrea
+05/14/16-11:28AM, test, MSG, from, jose,  tasd
+05/14/16-11:28AM, jose, MSG, to, test,  tasd
+05/14/16-11:28AM, test, MSG, from, jose,  asd
+05/14/16-11:28AM, jose, MSG, to, test,  asd
+05/14/16-11:28AM, test, MSG, from, jose,  as
+05/14/16-11:28AM, jose, MSG, to, test,  as
+05/14/16-11:28AM, test, MSG, from, jose,  das
+05/14/16-11:28AM, jose, MSG, to, test,  das
+05/14/16-11:28AM, test, MSG, from, jose,  d
+05/14/16-11:28AM, jose, MSG, to, test,  d
+05/14/16-11:28AM, test, MSG, from, jose,  asd
+05/14/16-11:28AM, jose, MSG, to, test,  asd
+05/14/16-11:28AM, test, MSG, from, jose,  a
+05/14/16-11:28AM, jose, MSG, to, test,  a
+05/14/16-11:28AM, test, MSG, from, jose,  sd
+05/14/16-11:28AM, jose, MSG, to, test,  sd
+05/14/16-11:28AM, test, MSG, from, jose,  as
+05/14/16-11:28AM, jose, MSG, to, test,  as
+05/14/16-11:28AM, test, MSG, from, jose,  d
+05/14/16-11:28AM, jose, MSG, to, test,  d
+05/14/16-11:28AM, jose, CMD, /close, success, chat
+05/14/16-11:28AM, test, MSG, to, jose,  nigga
+05/14/16-11:28AM, test, MSG, from, jose,  free
+05/14/16-11:28AM, jose, MSG, to, test,  free
+05/14/16-04:22PM, test, LOGIN, 0.0.0.0:1234, success, test
+05/14/16-04:22PM, jose, LOGIN, 0.0.0.0:1234, fail, ERR 02 BAD PASSWORD
+05/14/16-04:23PM, jose, LOGIN, 0.0.0.0:1234, success, test
+05/14/16-04:23PM, test, LOGOUT,intentional
+05/14/16-04:23PM, test, LOGOUT,error
+05/14/16-04:23PM, jose, LOGOUT,intentional
+05/14/16-04:23PM, jose, LOGOUT,error
+05/17/16-12:43PM, test, LOGIN, 0.0.0.0:1234, success, test
+05/17/16-12:43PM, jose, LOGIN, 3.0.0.0:1234, success, test
+05/17/16-12:43PM, test, MSG, to, jose, test
+05/17/16-12:44PM, test, CMD, /listu, success, client
+05/17/16-12:44PM, test, MSG, to, jose, test
+05/17/16-12:44PM, jose, MSG, from, test,  hey
+05/17/16-12:44PM, test, MSG, to, jose,  hey
+05/17/16-12:44PM, jose, MSG, from, test,  how are you
+05/17/16-12:44PM, test, MSG, to, jose,  how are you
+05/17/16-12:44PM, jose, MSG, from, test,  test
+05/17/16-12:44PM, test, MSG, to, jose,  test
+05/17/16-12:44PM, test, CMD, /close, success, chat
+05/17/16-12:44PM, jose, MSG, to, test,  come back
+05/17/16-12:44PM, test, CMD, /close, success, chat
+05/17/16-12:44PM, jose, MSG, to, test,  test
+05/17/16-12:44PM, jose, MSG, from, test,  asdasd
+05/17/16-12:44PM, test, MSG, to, jose,  asdasd
+05/17/16-12:44PM, jose, MSG, from, test,  asd
+05/17/16-12:44PM, test, MSG, to, jose,  asd
+05/17/16-12:44PM, jose, MSG, from, test,  asd
+05/17/16-12:44PM, test, MSG, to, jose,  asd
+05/17/16-12:44PM, jose, MSG, from, test,  a
+05/17/16-12:44PM, test, MSG, to, jose,  a
+05/17/16-12:44PM, jose, MSG, from, test,  sd
+05/17/16-12:44PM, test, MSG, to, jose,  sd
+05/17/16-12:44PM, jose, MSG, from, test,  asd
+05/17/16-12:44PM, test, MSG, to, jose,  asd
+05/17/16-12:44PM, jose, MSG, from, test,  sad
+05/17/16-12:44PM, test, MSG, to, jose,  sad
+05/17/16-12:44PM, jose, MSG, from, test,  
+05/17/16-12:44PM, test, MSG, to, jose,  
+05/17/16-12:44PM, jose, MSG, from, test,  asd
+05/17/16-12:44PM, test, MSG, to, jose,  asd
+05/17/16-12:44PM, jose, MSG, from, test,  a
+05/17/16-12:44PM, test, MSG, to, jose,  a
+05/17/16-12:44PM, jose, MSG, from, test,  sd
+05/17/16-12:44PM, test, MSG, to, jose,  sd
+05/17/16-12:44PM, jose, MSG, from, test,  as
+05/17/16-12:44PM, test, MSG, to, jose,  as
+05/17/16-12:44PM, jose, CMD, /close, success, chat
+05/17/16-12:44PM, test, MSG, to, jose,  aa
+05/17/16-12:44PM, test, CMD, /close, success, chat
+05/17/16-12:44PM, jose, CMD, /close, success, chat
